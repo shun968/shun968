@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/bf956a0e-b3eb-440a-80b5-aa0cdc77b339/public_url)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/bf956a0e-b3eb-440a-80b5-aa0cdc77b339/public_url)
