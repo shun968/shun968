@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/bf956a0e-b3eb-440a-80b5-aa0cdc77b339/public_url)
 
-[![SAP Certified Associate](https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/9431fa63-c59f-4b06-9dda-3f6b21006045/public_url)
+[![SAP Certified Associate](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/9431fa63-c59f-4b06-9dda-3f6b21006045/public_url)
 
